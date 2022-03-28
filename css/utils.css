@@ -8,3 +8,11 @@
 .h500{
   height: 500px;
 }
+
+/* per la stella */
+
+.line{
+  border: 2px solid white;
+  height: 2px;
+  width: 8vw;
+}
