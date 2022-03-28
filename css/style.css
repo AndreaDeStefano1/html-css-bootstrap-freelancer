@@ -38,6 +38,43 @@ nav.navbar ul li a{
   border: 2px solid rgb(0, 0, 0);
 }
 
+
+/* about */
+
 .about{
   background-color: rgb(26, 188, 156);
+}
+
+/* contact me  */
+
+.contact-me{
+  color: black;
+}
+.contact-me .line{
+  border: 2px solid rgb(0, 0, 0);
+}
+
+.ads-form-style{
+  font-weight: 600;
+  color: black;
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-radius: 0;
+}
+/* !!MODIFICATA CLASSE BOOTSTRAP */
+.form-control:focus {
+  color: #212529;
+  background-color: #fff;
+  border-color: transparent;
+  border-bottom: 1px solid#212529;
+  outline: 0;
+  box-shadow: none;
+}
+.ads-btn-green{
+  background-color: rgb(26, 188, 156);
+  border: none;
+}
+.ads-btn-green:hover{
+  background-color: rgb(31, 131, 107);
 }
