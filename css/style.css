@@ -37,3 +37,7 @@ nav.navbar ul li a{
 .portfolio .line{
   border: 2px solid rgb(0, 0, 0);
 }
+
+.about{
+  background-color: rgb(26, 188, 156);
+}
